@@ -1,0 +1,6 @@
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.exe.config
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.exe
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.pdb
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.csprojResolveAssemblyReference.cache
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.exe
+c:\CSharp-Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.pdb
